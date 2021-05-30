@@ -24,7 +24,7 @@ sections:
       *   You can also encourage businesses in your community to support
       TribeTelco.
     actions:
-      - url: /signup
+      - url: /pricing
         style: primary
         label: NBN Plans
       - label: View Demo
