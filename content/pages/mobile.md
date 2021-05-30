@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: 3GB Data
-        price: $15/m
+        price: $15/mth
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
