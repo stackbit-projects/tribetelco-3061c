@@ -7,7 +7,7 @@ sections:
     title: Mobile Plans
     subtitle: TribeTelco’s SIM only mobile plans which give-back to community
     pricing_plans:
-      - title: Basic
+      - title: Small
         subtitle: 3GB Data
         price: $15/mth
         details: |
