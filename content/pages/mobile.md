@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Basic
-        subtitle: '5'
+        subtitle: 5GB
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
