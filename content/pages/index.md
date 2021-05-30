@@ -39,10 +39,11 @@ sections:
       - title: TribeTelco referrals
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          TribeTelco’s app not only lets you see and manage your services, you
+          can send a simple referral to friends or family so they can also chose
+          to support your community initiatives just by moving their mobile or
+          internet services to TribeTelco.
         actions:
           - label: Learn More
             url: /features
