@@ -10,11 +10,9 @@ sections:
       - title: Basic
         subtitle: 3GB Data
         price: $15/mth
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Unlimited national calls and texts
+          *   No lock-in contract
         actions:
           - label: Order Now
             url: /signup
