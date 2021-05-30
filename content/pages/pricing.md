@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Fast
-        subtitle: For medium-sized businesses
+        subtitle: 50/20
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
