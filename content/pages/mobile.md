@@ -35,11 +35,11 @@ sections:
       - title: Large
         subtitle: 40GB Data
         price: $40/mth
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          #### $3 to Community
+
+          *   Unlimited national calls and texts
+          *   No lock-in contract
         actions:
           - label: Order Now
             url: /signup
