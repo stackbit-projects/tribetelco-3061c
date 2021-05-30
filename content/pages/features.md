@@ -26,6 +26,7 @@ sections:
     actions:
       - url: /signup
         style: primary
+        label: NBN Plans
       - label: View Demo
         url: '#'
         style: secondary
