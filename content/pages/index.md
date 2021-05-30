@@ -22,7 +22,7 @@ sections:
       Mobile and Internet services.
     features:
       - title: TribeTelco Give-Back for your community
-        image: images/feature1.png
+        image: /images/7C641F31-537E-433A-BA08-49F44EC58013.jpeg
         image_alt: App preview on a phone and tablet
         content: >
           Imagine if some of your monthly mobile and internet spend went
