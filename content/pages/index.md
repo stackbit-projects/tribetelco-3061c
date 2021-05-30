@@ -95,7 +95,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Support your Community just being You!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: "Most of us have mobiles and home internet.\_ By purchasing these from TribeTelco, you are contributing funds to your Community."
     actions:
       - label: Get Started
         url: /signup
