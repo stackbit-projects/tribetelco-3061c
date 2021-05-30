@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Standard
         subtitle: 50/20
-        price: $49/m
+        price: $75/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
