@@ -24,11 +24,6 @@
                 "label": "NBN"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "url": "/mobile",
                 "style": "link",
                 "has_icon": false,
