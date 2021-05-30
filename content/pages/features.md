@@ -24,8 +24,7 @@ sections:
       *   You can also encourage businesses in your community to support
       TribeTelco.
     actions:
-      - label: Free Trial
-        url: /signup
+      - url: /signup
         style: primary
       - label: View Demo
         url: '#'
