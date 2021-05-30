@@ -34,7 +34,7 @@ sections:
         subtitle: 20GB Data
       - title: Large
         subtitle: 40GB Data
-        price: $149/m
+        price: $149/mth
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
