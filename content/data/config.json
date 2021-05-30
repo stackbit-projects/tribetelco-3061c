@@ -29,7 +29,7 @@
                 "style": "link"
             },
             {
-                "url": "lorem-ipsum",
+                "url": "/mobile",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
