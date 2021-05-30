@@ -33,7 +33,7 @@ sections:
             style: primary
         subtitle: 20GB Data
       - title: Large
-        subtitle: For very large businesses
+        subtitle: 40GB Data
         price: $149/m
         details: |-
           * Vestibulum non eros quis
