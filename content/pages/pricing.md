@@ -31,11 +31,9 @@ sections:
       - title: Fast
         subtitle: 100/20
         price: $95/mth
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Unlimited Data
+          *   No lock-in contract
         actions:
           - label: Order Now
             url: /signup
