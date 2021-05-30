@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: NBN Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: NBN Broadband plans
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
