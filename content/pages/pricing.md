@@ -10,11 +10,9 @@ sections:
       - title: Basic
         subtitle: 25/5
         price: $65/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Unlimited Data
+          *   No lock-in contract
         actions:
           - label: Order Now
             url: /signup
