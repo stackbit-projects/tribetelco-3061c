@@ -7,21 +7,22 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: TribeTelco Give-Back for your Community
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      TribeTelco’s purpose is to contribute to customer and community success. 
+      To deliver on this, TribeTelco will contribute some of your monthly spend
+      from every service to your community enterprise initiatives.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      *   We encourage you to refer TribeTelco to other members of your
+      community because the more people that support TribeTelco, the more money
+      going back into your community!
+
+      *   Invite your friends and family to join via our app or website.
+
+      *   You can also encourage businesses in your community to support
+      TribeTelco.
     actions:
       - label: Free Trial
         url: /signup
