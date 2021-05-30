@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Mobile Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: TribeTelco’s SIM
     pricing_plans:
       - title: Basic
         subtitle: 3GB Data
