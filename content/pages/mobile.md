@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Mobile Plans
-    subtitle: 'TribeTelco’s SIM only mobile plans which '
+    subtitle: TribeTelco’s SIM only mobile plans which give-back to community
     pricing_plans:
       - title: Basic
         subtitle: 3GB Data
