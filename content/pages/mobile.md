@@ -11,6 +11,8 @@ sections:
         subtitle: 3GB Data
         price: $15/mth
         details: |
+          #### $3 to Community
+
           *   Unlimited national calls and texts
           *   No lock-in contract
         actions:
