@@ -19,12 +19,9 @@ sections:
             style: secondary
       - title: Medium
         price: $30/mth
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Unlimited national calls and texts
+          *   No lock-in contract
         highlight: true
         actions:
           - label: Order Now
