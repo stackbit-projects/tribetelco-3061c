@@ -7,7 +7,7 @@ sections:
     title: NBN Plans
     subtitle: NBN Broadband plans
     pricing_plans:
-      - title: Standard
+      - title: Basic
         subtitle: 25/5
         price: $5/m
         details: |-
