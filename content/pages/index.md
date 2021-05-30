@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Find out why TribeTelco is the best option for you and your community’s
+      Mobile and Internet services.
     features:
       - title: TribeTelco Give-Back for your community
         image: images/feature1.png
