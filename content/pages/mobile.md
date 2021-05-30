@@ -30,6 +30,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
+        subtitle: 20GB Data
       - title: Enterprise
         subtitle: For very large businesses
         price: $149/m
