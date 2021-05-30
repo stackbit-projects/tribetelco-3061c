@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: /images/23F789A2-6ADC-4219-8C39-1872E1AB24DC.jpeg
     image_alt: App preview on a phone and tablet
     title: TribeTelco Give-Back for your Community
     content: >
