@@ -27,7 +27,7 @@ sections:
       - url: /pricing
         style: primary
         label: NBN Plans
-      - label: View Demo
+      - label: Mobile Plans
         url: '#'
         style: secondary
   - section_id: call-to-action
