@@ -28,7 +28,7 @@ sections:
         style: primary
         label: NBN Plans
       - label: Mobile Plans
-        url: '#'
+        url: /mobile
         style: secondary
   - section_id: call-to-action
     type: section_cta
