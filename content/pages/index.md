@@ -52,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Latest Mobile and NBN plans
-        image: images/feature3.png
+        image: /images/0BF0CB01-B5EA-4BEC-93D5-9B857C474394.png
         image_alt: App user profile preview
         content: >
           TribeTelco’s mobile plans are super-competitive and use the
