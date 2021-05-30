@@ -24,10 +24,11 @@ sections:
       - title: TribeTelco Give-Back for your community
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Imagine if some of your monthly mobile and internet spend went
+          directly to funding initiatives in your community.  Now imagine if
+          your whole community chose TribeTelco for their mobile and internet
+          services!   
         actions:
           - label: Learn More
             url: /features
