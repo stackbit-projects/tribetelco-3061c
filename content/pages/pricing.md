@@ -19,7 +19,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-      - title: Fast
+      - title: Standard
         subtitle: 50/20
         price: $49/m
         details: |-
