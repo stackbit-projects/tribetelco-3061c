@@ -32,7 +32,7 @@ sections:
             url: /signup
             style: primary
         subtitle: 20GB Data
-      - title: Enterprise
+      - title: Large
         subtitle: For very large businesses
         price: $149/m
         details: |-
