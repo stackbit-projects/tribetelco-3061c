@@ -20,6 +20,8 @@ sections:
       - title: Medium
         price: $30/mth
         details: |
+          #### $3 to Community
+
           *   Unlimited national calls and texts
           *   No lock-in contract
         highlight: true
