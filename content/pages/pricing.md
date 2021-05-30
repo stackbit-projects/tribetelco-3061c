@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: 25/5
-        price: $5/m
+        price: $65/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
