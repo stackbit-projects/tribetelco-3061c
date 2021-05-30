@@ -20,12 +20,9 @@ sections:
       - title: Standard
         subtitle: 50/20
         price: $75/mth
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Unlimited Data
+          *   No lock-in contract
         highlight: true
         actions:
           - label: Order Now
