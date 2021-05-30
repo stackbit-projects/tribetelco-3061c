@@ -18,7 +18,7 @@ sections:
             url: /signup
             style: secondary
       - title: Medium
-        price: $49/m
+        price: $49/mth
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
