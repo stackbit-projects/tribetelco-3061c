@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: 25/5
-        price: $65/m
+        price: $65/mth
         details: |
           *   Unlimited Data
           *   No lock-in contract
