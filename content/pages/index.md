@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/F294CBE8-217C-4779-9249-D5C47F074825.jpeg
     image_alt: App preview
     title: Mobile and Internet Plans that support your community.
     content: >
