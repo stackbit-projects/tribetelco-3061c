@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Fast
         subtitle: 100/20
-        price: $149/m
+        price: $95/m
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
