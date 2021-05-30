@@ -36,6 +36,8 @@ sections:
         subtitle: 100/20
         price: $95/mth
         details: |
+          #### $5 to Community
+
           *   Unlimited Data
           *   No lock-in contract
         actions:
