@@ -18,7 +18,6 @@ sections:
             url: /signup
             style: secondary
       - title: Medium
-        subtitle: For medium-sized businesses
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
