@@ -8,7 +8,7 @@ sections:
     subtitle: NBN Broadband plans
     pricing_plans:
       - title: Standard
-        subtitle: For small businesses
+        subtitle: 25M/5M
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
