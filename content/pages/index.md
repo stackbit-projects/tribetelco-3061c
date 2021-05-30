@@ -54,10 +54,10 @@ sections:
       - title: Latest Mobile and NBN plans
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          TribeTelco’s mobile plans are super-competitive and use the
+          Optus/Telstra 4G mobile network.  Our NBN plans are the latest,
+          super-competitive internet products providing all the speed you need!
         actions:
           - label: Learn More
             url: /features
