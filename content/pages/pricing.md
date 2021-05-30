@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: primary
       - title: Fast
-        subtitle: For very large businesses
+        subtitle: 100/20
         price: $149/m
         details: |-
           * Vestibulum non eros quis
