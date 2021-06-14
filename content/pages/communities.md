@@ -31,7 +31,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-        subtitle: 20GB Data
+        subtitle: idneB
         title: Empowering Eaglehawk
       - title: Large
         subtitle: 40GB Data
