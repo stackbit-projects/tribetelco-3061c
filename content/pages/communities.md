@@ -5,6 +5,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
+    title: Communities
   - section_id: pricing
     type: section_pricing
     background: gray
