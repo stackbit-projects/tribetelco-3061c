@@ -1,5 +1,5 @@
 ---
-subtitle: 'Current Initiative: BBQ Area.  Click here to find out more about this new '
+subtitle: 'Current Initiative: BBQ Area.  Click here to find out more about t'
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
