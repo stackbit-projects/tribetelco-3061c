@@ -1,5 +1,5 @@
 ---
-title: 'Strathfieldsaye '
+title: Strathfieldsaye Community Enterprise
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
