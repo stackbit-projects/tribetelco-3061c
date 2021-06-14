@@ -20,8 +20,7 @@ sections:
             url: /signup
             style: secondary
         price: Strathfieldsaye Playground
-      - title: Medium
-        price: $30/mth
+      - price: $30/mth
         details: |
           #### $3 to Community
 
