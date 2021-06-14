@@ -10,7 +10,7 @@ sections:
       having your Mobile or NBN services with TribeTelco.
     pricing_plans:
       - title: Strathfieldsaye Community Enterprise
-        subtitle: B
+        subtitle: 'Bendigo '
         price: $15/mth
         details: |
           #### $3 to Community
