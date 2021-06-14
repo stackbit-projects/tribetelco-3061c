@@ -16,7 +16,7 @@ sections:
 
           *   New Playground in Strathfieldsaye
         actions:
-          - label: Order Now
+          - label: More Details
             url: /signup
             style: secondary
         price: Strathfieldsaye Playground
