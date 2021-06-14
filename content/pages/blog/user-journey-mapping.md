@@ -2,9 +2,7 @@
 subtitle: >-
   Current Initiative: BBQ Area.  Click here to find out more about these new
   facilities.
-excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+excerpt: Current Initia
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/10_thumb.jpg
