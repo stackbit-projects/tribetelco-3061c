@@ -7,7 +7,7 @@ sections:
     title: Communities
     subtitle: >-
       TribeTelco partners with the following Communities that you can support
-      just by 
+      just by paying for 
     pricing_plans:
       - title: Small
         subtitle: 3GB Data
