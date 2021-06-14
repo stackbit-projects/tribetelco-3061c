@@ -20,6 +20,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
+        price: 'Strathfieldsaye '
       - title: Medium
         price: $30/mth
         details: |
