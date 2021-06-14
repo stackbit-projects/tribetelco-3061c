@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Communities
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
