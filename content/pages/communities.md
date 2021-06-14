@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Communities
-    subtitle: TribeTelco’s SIM only mobile plans which give-back to community
+    subtitle: TribeTelco partners with the following Commun
     pricing_plans:
       - title: Small
         subtitle: 3GB Data
