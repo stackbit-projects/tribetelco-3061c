@@ -26,7 +26,7 @@ sections:
           *   New Skate Park in Eaglehawk
         highlight: true
         actions:
-          - label: Order Now
+          - label: More Details
             url: /signup
             style: primary
         subtitle: Bendigo Region
