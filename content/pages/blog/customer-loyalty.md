@@ -1,6 +1,6 @@
 ---
 title: Strathfieldsaye Community Enterprise
-subtitle: A story about customer loyalty
+subtitle: C
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
