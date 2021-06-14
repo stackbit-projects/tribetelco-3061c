@@ -32,6 +32,7 @@ sections:
             style: primary
         subtitle: Bendigo Region
         title: Empowering Eaglehawk
+        price: 'Eaglehawk '
       - title: Large
         subtitle: 40GB Data
         price: $40/mth
