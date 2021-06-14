@@ -20,8 +20,7 @@ sections:
             url: /signup
             style: secondary
         price: Strathfieldsaye Playground
-      - price: $30/mth
-        details: |
+      - details: |
           #### $3 to Community
 
           *   Unlimited national calls and texts
