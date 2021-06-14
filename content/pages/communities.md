@@ -32,6 +32,7 @@ sections:
             url: /signup
             style: primary
         subtitle: 20GB Data
+        title: Empowering Eaglehawk
       - title: Large
         subtitle: 40GB Data
         price: $40/mth
