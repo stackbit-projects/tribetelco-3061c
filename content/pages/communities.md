@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Mobile Plans
+    title: Communities
     subtitle: TribeTelco’s SIM only mobile plans which give-back to community
     pricing_plans:
       - title: Small
