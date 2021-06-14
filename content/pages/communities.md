@@ -10,7 +10,7 @@ sections:
       having your Mobile or NBN services with TribeTelco.
     pricing_plans:
       - title: Strathfieldsaye Community Enterprise
-        subtitle: 3GB Data
+        subtitle: B
         price: $15/mth
         details: |
           #### $3 to Community
