@@ -2,7 +2,9 @@
 title: Pricing
 sections:
   - section_id: Communities
-    subtitle: lorem-ipsum
+    subtitle: >-
+      TribeTelco partners with the following Communities that you can support by
+      having your Mobile or NBN services with TribeTelco.
     background: gray
     type: section_posts
     title: Communities
