@@ -1,5 +1,5 @@
 ---
-subtitle: 'Current Initiative: Coding course'
+subtitle: 'Current Initiative: Coding '
 excerpt: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
