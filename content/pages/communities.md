@@ -21,10 +21,9 @@ sections:
             style: secondary
         price: Strathfieldsaye Playground
       - details: |
-          #### $3 to Community
+          #### Raising $70,000
 
-          *   Unlimited national calls and texts
-          *   No lock-in contract
+          *   New Skate Park in Eaglehawk
         highlight: true
         actions:
           - label: Order Now
