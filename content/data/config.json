@@ -36,7 +36,7 @@
             },
             {
                 "label": "Communities",
-                "url": "communities",
+                "url": "/communities",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
