@@ -9,7 +9,7 @@ sections:
       TribeTelco partners with the following Communities that you can support by
       having your Mobile or NBN services with TribeTelco.
     pricing_plans:
-      - title: Small
+      - title: artS
         subtitle: 3GB Data
         price: $15/mth
         details: |
