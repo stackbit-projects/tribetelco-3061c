@@ -7,7 +7,7 @@ sections:
     title: Communities
     subtitle: >-
       TribeTelco partners with the following Communities that you can support by
-      having your Mobile 
+      having your Mobile or NBN services with TribeTelco.
     pricing_plans:
       - title: Small
         subtitle: 3GB Data
