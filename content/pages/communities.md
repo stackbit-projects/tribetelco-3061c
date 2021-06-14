@@ -12,10 +12,9 @@ sections:
       - title: Strathfieldsaye Community Enterprise
         subtitle: Bendigo Region
         details: |
-          #### $3 to Community
+          #### Raising $100,000
 
-          *   Unlimited national calls and texts
-          *   No lock-in contract
+          *   New Playground in Strathfieldsaye
         actions:
           - label: Order Now
             url: /signup
