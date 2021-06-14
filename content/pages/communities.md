@@ -11,7 +11,6 @@ sections:
     pricing_plans:
       - title: Strathfieldsaye Community Enterprise
         subtitle: Bendigo Region
-        price: $15/mth
         details: |
           #### $3 to Community
 
