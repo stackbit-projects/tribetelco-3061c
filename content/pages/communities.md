@@ -31,7 +31,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-        subtitle: idneB
+        subtitle: Bendigo Region
         title: Empowering Eaglehawk
       - title: Large
         subtitle: 40GB Data
