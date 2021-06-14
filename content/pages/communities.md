@@ -5,9 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Communities
-    subtitle: >-
-      TribeTelco partners with the following Communities that you can support
-      just by 
+    subtitle: 'TribeTelco partners with the following Communities that you can support '
     pricing_plans:
       - title: Small
         subtitle: 3GB Data
