@@ -1,7 +1,5 @@
 ---
-excerpt: >-
-  Current Initiative: New Skate Park.  Click here to find out more about the
-  proposed new Skate Park for Eaglehawk.
+excerpt: "Current Initiative: New Skate Park.\_ Fundraising Target: $125,000\_ \_ \_ \_ \_ \_ \_ \_ Click here to find out more...."
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
