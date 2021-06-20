@@ -2,7 +2,7 @@
 excerpt: "Current Initiative: New Skate Park.\_ Fundraising Target: $125,000\_ \_ \_ \_ \_ \_ \_ \_ Click here to find out more...."
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
-thumb_image: images/9_thumb.jpg
+thumb_image: /images/skate_park.jpeg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
