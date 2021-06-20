@@ -1,9 +1,7 @@
 ---
 title: Strathfieldsaye Community Enterprise
 author: content/data/authors/jane-doe.yaml
-excerpt: >-
-  Current Initiative: New Playground.  Click here to find out more about this
-  fantastic community initiative for Strathfieldsaye.
+excerpt: 'Current Initiative: New Playground.'
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 image: images/3.jpg
