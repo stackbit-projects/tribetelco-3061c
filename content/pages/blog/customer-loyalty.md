@@ -6,7 +6,6 @@ excerpt: >-
   fantastic community initiative for Strathfieldsaye.
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
-thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 seo:
   title: Customer Loyalty Programs That Stick
