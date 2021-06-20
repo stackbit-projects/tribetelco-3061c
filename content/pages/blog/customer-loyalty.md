@@ -1,7 +1,7 @@
 ---
 title: Strathfieldsaye Community Enterprise
 author: content/data/authors/jane-doe.yaml
-excerpt: 'Current Initiative: New Playground.  Fundraising Target: $150,000'
+excerpt: "Current Initiative: New Playground.  Fundraising Target: $150,000\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Click here to find out more..."
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 image: images/3.jpg
