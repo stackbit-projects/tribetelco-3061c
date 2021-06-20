@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: "Current Initiative: BBQ Area.\_ \_ \_ Fundraising Target: $60,000\_ \_ \_ \_ \_ \_ \_ \_ \_ Click here to find out more...."
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
-thumb_image: images/10_thumb.jpg
+thumb_image: /images/bbq_area.jpeg
 thumb_image_alt: Business people in a meeting
 image: images/10.jpg
 image_alt: Business people in a meeting
